@@ -2422,4 +2422,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Wang Yiding 王怡丁 ([@yidingww](https://github.com/yidingww)), Software Engineer, China / Singapore
 - Android Dev Notes ([@androiddevnotes](https://github.com/androiddevnotes)), Open-source contributor.
 - Mahmoud Mabrouk Fouad ([@MahmoudMabrok](https://github.com/MahmoudMabrok)), Junior Android developer at [inovaeg](http://www.inovaeg.com/), Egypt
-- Hany Mohamed Nigma ([@hanynigma](https://github.com/hanynigma)), Junior Android developer and Digital Marketing Specialist, Egypt
+- Hany Mohamed Nigma ([@hanynigma](https://github.com/hanynigma)), Junior Android developer and Digital Marketing Specialist, YouTube Channel[NigmaTech](https://www.youtube.com/nigmatech), Google Play Store [NigmaTech](https://play.google.com/store/apps/developer?id=NigmaTech),  Egypt
